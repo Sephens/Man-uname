@@ -1,0 +1,2 @@
+#print the kernel name
+uname -s
