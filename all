@@ -1,2 +1,3 @@
+#!/bin/bash
 #print all information, in the following order, except omit -p and -i if unknown:
 uname -a

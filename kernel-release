@@ -1,2 +1,3 @@
+#!/bin/bash
 #print the kernel release
 uname -r
