@@ -1,0 +1,2 @@
+#print the kernel version
+uname -r
