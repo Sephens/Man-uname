@@ -1,0 +1,2 @@
+#print the hardware name
+uname -m
