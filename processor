@@ -1,0 +1,2 @@
+#print the processor name
+uname -p
